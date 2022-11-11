@@ -4,6 +4,7 @@ import Double from "../assets/double.png";
 import Triple from "../assets/triple.png";
 
 const Cards = () => {
+  // next step
   return (
     <div className="w-full py-[10rem] px-4 bg-white">
       <div className="max-w-[1240px] mx-auto grid md:grid-cols-3 gap-8">
